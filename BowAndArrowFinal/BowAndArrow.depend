@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1494172048 source:c:\users\ishmam\desktop\mygraphics\arrowprojectile.cpp
+	"iGraphics.h"
+	<math.h>
+	<time.h>
+
+1494168061 c:\users\ishmam\desktop\mygraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1496330199 source:f:\bowandarrow\arrowprojectile.cpp
+	"iGraphics.h"
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<mmsystem.h>
+	<windows.h>
+
+1494249160 f:\bowandarrow\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1496767041 source:f:\bowandarrowfinal\arrowprojectile.cpp
+	"iGraphics.h"
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<mmsystem.h>
+	<windows.h>
+
+1494249160 f:\bowandarrowfinal\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1462160912 source:f:\visual\igraphics\demo codes\codeblocks\picturedemo.cpp
+	"iGraphics.h"
+
+1462108168 f:\visual\igraphics\demo codes\codeblocks\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1462160912 source:c:\users\ishmam\desktop\mygraphics\picturedemo.cpp
+	"iGraphics.h"
+
+1462108168 c:\users\ishmam\desktop\mygraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
